@@ -35,7 +35,7 @@ const Sidebar = ({messages}) => {
                 </div>
             </div>
             <div className='sidebar_chats'>
-                <SidebarChat messages={messages}/>
+                <SidebarChat messages={messages} />
             </div>
             
         </div>
